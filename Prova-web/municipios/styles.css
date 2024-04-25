@@ -1,0 +1,13 @@
+#button {
+    color: red;
+}
+
+cidade-ul {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}

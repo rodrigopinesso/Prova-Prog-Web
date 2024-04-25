@@ -1,0 +1,28 @@
+body,
+h1,
+h2,
+p,
+ul,
+ol,
+li,
+figure,
+table,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+favoritos-ul {
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
